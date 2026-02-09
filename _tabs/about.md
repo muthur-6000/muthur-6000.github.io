@@ -18,7 +18,7 @@ I specialize in the end-to-end lifecycle of enterprise technology. My role sits 
 * **MTR & UCC Platforms:** Full-stack management of **Microsoft Teams Rooms** (Windows/IoT) and **Surface Hub Systems**, including account provisioning and peripheral integration.
 * **Integrated DSP Architecture:** Design and management of **Q-SYS Ecosystems** (Core processors) and **Q-SYS Designer** logic for complex meeting spaces.
 * **Executive Event Production:** Leading internal AV logistics for cross-departmental "All-Hands" meetings; replacing external vendors with in-house **Live Sound Reinforcement**, wireless frequency coordination, and hybrid broadcasting.
-* **Visual Infrastructure:** Lifecycle management of **Barco ClickShare** fleets and high-lumen projection systems.
+* **Visual Infrastructure:** Lifecycle management of **Barco ClickShare** & **Crestron AirMedia** fleets and high-lumen projection systems.
 
 #### **2. Infrastructure & Systems Operations**
 * **Identity & Access:** Comprehensive administration of **Active Directory (ADUC)** and **Azure AD (Entra ID)**—managing user lifecycles, security groups, GPOs, and PAMPortal credentialing.
