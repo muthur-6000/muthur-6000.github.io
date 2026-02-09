@@ -1,8 +1,8 @@
 ---
 title: "Enterprise AV: Prevailing Over 'Sketchy' Yealink Documentation"
 date: 2026-01-30 14:00:00 -0500
-categories: [Infrastructure]
-tags: [yealink, mtr, microsoft-teams, autopilot, documentation-fail]
+categories: [Hardware-Diagnostics]
+tags: [yealink, mtr, microsoft-teams, autopilot, documentation-fail. infrastructure]
 description: Recovering a boardroom MTR system despite 404 errors, typos, and undocumented administrative lockouts.
 ---
 
