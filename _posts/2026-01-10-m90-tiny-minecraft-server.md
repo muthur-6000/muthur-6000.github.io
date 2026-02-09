@@ -1,5 +1,5 @@
 ---
-title: "Homelab Engineering: The $140 CAD Minecraft Powerhouse"
+title: "Homelab Engineering: The $100 Minecraft Powerhouse"
 date: 2026-01-10 12:00:00 -0500
 categories: [Homelab, Server-Administration]
 tags: [lenovo, ubuntu-server, minecraft, fabric, webmin, amp]
