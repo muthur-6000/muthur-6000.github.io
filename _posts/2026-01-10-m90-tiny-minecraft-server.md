@@ -2,7 +2,7 @@
 title: "Homelab Engineering: The $100 Minecraft Powerhouse"
 date: 2026-01-10 12:00:00 -0500
 categories: [Homelab]
-tags: [lenovo, ubuntu-server, minecraft, fabric, webmin, amp]
+tags: [lenovo, ubuntu-server, minecraft, fabric, webmin, amp, server-administration]
 description: Repurposing a ThinkCentre M90 Tiny into a high-performance Fabric Minecraft server using Ubuntu Server and AMP.
 ---
 
