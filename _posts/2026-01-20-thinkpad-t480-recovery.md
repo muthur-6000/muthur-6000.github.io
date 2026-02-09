@@ -1,7 +1,7 @@
 ---
 title: "Hardware Forensics: Rescuing a ThinkPad T480 from the Thunderbolt 'Death-Loop'"
 date: 2026-01-20 11:00:00 -0500
-categories: [Hardware Diagnostics]
+categories: [Hardware-Diagnostics]
 tags: [lenovo, infrastructure, thinkpad, hardware-repair, thunderbolt, firmware]
 description: A layered diagnostic recovery involving Thunderbolt firmware patching and dual-battery power-logic isolation.
 ---
