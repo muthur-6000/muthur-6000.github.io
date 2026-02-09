@@ -1,4 +1,4 @@
-Project Posting Guide
+**Project Posting Guide**
 1. File Location and Naming
 All project files must be stored in the /_posts directory. Files must follow this exact naming convention to be recognized by the site engine:
 
@@ -17,6 +17,7 @@ categories: [Category1, Category2]
 tags: [tag1, tag2]
 description: A short one-sentence summary for the preview card.
 ---
+
 Rules for Front Matter:
 
 Categories: Use only 1 or 2 high-level categories (e.g., Infrastructure, Operations, AV-Engineering).
