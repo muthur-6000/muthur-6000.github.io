@@ -1,7 +1,7 @@
 ---
 title: "Operations & Logistics: 2026 Enterprise iPad Refresh (240+ Units)"
 date: 2026-02-05 10:00:00 -0500
-categories: [Operations & Deployment]
+categories: [Operations-Deployment]
 tags: [project-management, m365, intune, ios, logistics, veeva]
 description: Orchestrating a 240-unit national hardware rollout involving complex CRM integrations and automated logistics.
 ---
