@@ -1,7 +1,7 @@
 ---
 title: "Hardware Diagnostics: The ThinkPad X13 Yoga 'Frankenstein' Build"
 date: 2026-02-01 09:00:00 -0500
-categories: [Hardware-Diagnostics]
+categories: [Hardware Diagnostics]
 tags: [lenovo, hardware-repair, thinkpad, diagnostics, infrastructure]
 description: Restoring a premium 2-in-1 workstation through a complex motherboard transplant and chassis migration.
 ---
