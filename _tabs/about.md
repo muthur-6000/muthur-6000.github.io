@@ -41,7 +41,7 @@ Whether it’s bypassing locked bootloaders on enterprise AR headsets or diagnos
 
 #### **5. Technical Communications & Design**
 * **Documentation:** Authoring technical SOPs and forensic-style project documentation (as seen in this portfolio) to bridge the gap between complex engineering and stakeholder understanding.
-* **Visual Strategy:** Utilizing **Adobe Creative Cloud** to design end-user adoption materials and professional digital signage.
+* **Visual Strategy:** Utilizing **Adobe Creative Cloud** (Photoshop, Illustator, etc.) to design end-user adoption materials and professional digital signage.
 
 ### 📫 Contact
 * **LinkedIn:** [Matthew Davis](https://www.linkedin.com/in/mattdavis601/)
