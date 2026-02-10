@@ -6,47 +6,44 @@ order: 4
 ---
 
 # Matty Davis
-**Systems Specialist & Integrated Technologist**
+**Systems Specialist | Hardware Forensic Analyst | Infrastructure Technologist**
 
-> **"If it has a power button or an IP address, I manage it."**
+> **"From component-level failure to enterprise-scale deployment."**
 
-I am an IT professional defined by a distinctive fusion of technical precision and business communications. I specialize in the end-to-end lifecycle of enterprise technology, sitting at the intersection of infrastructure support and executive-level AV operations. My goal is to not only resolve complex technical issues but to empower users with the knowledge they need to navigate modern systems effectively.
+I am an IT professional specializing in the end-to-end lifecycle of enterprise technology. My work sits at the intersection of high-stakes hardware recovery, infrastructure engineering, and executive-level AV operations. I define my value not just by maintaining systems, but by rescuing high-value assets from "impossible" failure states and optimizing decommissioned hardware into functional, high-density infrastructure.
 
-### 📖 The Origin Story
-Technology has been a lifelong obsession rather than just a career choice. My journey started in kindergarten with a collection of cereal box CD-ROMs and evolved by middle school into modding Source Engine server code using **C++** and **Lua**. 
+### 📖 The Engineering Mindset
+Technology has never been a "black box" to me. My journey began with modding Source Engine code in middle school and has evolved into a career centered on understanding the "why" behind system failures. 
 
-Outside of the server room, I maintain a constant curiosity for learning across various domains, with a particular interest in art, history, and geopolitics. I believe that a well-rounded perspective is what allows a technician to become a true problem solver.
+Whether it’s bypassing locked bootloaders on enterprise AR headsets or diagnosing a single failed MOSFET on a motor controller, I thrive in the space between standard software tools and the physical reality of hardware. I believe that a technician's greatest asset is the persistence to troubleshoot beyond the "click-to-fix" interface.
 
-### 🛠️ Core Competencies
+### 🛠️ Technical Competencies
 
-#### **1. Full-Stack Server & Physical Infrastructure**
-* **Infrastructure Maintenance:** Managing the "Full Stack" lifecycle of enterprise hardware, from configuring **Cisco UCS** platforms and **CIMC** firmware to maintaining **RAID 5** storage arrays.
-* **Physical Layer:** Managing existing network architecture through strategic patching and standard **RJ45 termination** to maintain reliable connectivity.
-* **Virtualization:** Optimization of **Proxmox VE** and **Hyper-V** environments, managing the vertical from hypervisor maintenance to LXC/VM service delivery.
-* **Power Redundancy:** Expertise in deploying and maintaining **APC Battery Backups (UPS)** to ensure high availability for both office and home lab environments.
+#### **1. Hardware Forensics & Recovery**
+* **Low-Level Recovery:** Expertise in bypassing corrupted firmware loops (Qualcomm HS-USB 9008/EDL mode) to rescue "bricked" enterprise assets like the HoloLens 2.
+* **Component Diagnostics:** Proficient in multimeter-based circuit analysis, identifying semiconductor-level failures (MOSFETs/Capacitors), and performing cost-benefit analyses on component-level vs. board-level repairs.
+* **Physical Bypasses:** Skilled in hardware-level administrative resets, utilizing motherboard jumpers (PWR REC) and NVRAM clearing to recover decommissioned server hardware.
 
-#### **2. Enterprise AV & UCC Operations**
-* **UCC Platforms:** Full-stack management of **Microsoft Teams Rooms (MTR)** and **Surface Hub Systems**, including account provisioning and peripheral troubleshooting.
-* **AV Maintenance:** Troubleshooting and maintaining established **Q-SYS Ecosystems** (Core processors) and **Q-SYS Designer** logic to ensure meeting room uptime.
-* **Vendor & Fleet Management:** Serving as a technical intermediary for **Konica Minolta** print fleets, utilizing automated replenishment systems and managing vendor service lifecycles.
-* **Event Production:** Leading internal AV logistics for corporate events; providing live sound reinforcement, wireless frequency coordination, and hybrid broadcasting.
+#### **2. Systems Infrastructure & Asset Reclamation**
+* **Server Architecture:** Managing the full lifecycle of **Cisco UCS** platforms, including **CIMC/BIOS** firmware synchronization and **RAID 5** storage array initialization.
+* **Virtualization:** Deployment and optimization of **Proxmox VE** environments; specializing in high-performance hosting on repurposed USFF (Ultra-Small Form Factor) enterprise hardware.
+* **Data Archival:** Engineering "zero-dependency" offline repositories (Kiwix) for disaster recovery, utilizing reclaimed SSD storage and multi-platform binary integration.
 
-#### **3. Identity, Security & SaaS Administration**
-* **SaaS Operations:** Daily administration and complex troubleshooting for **OneDrive for Business** and **Exchange Online** (managing service mailboxes, shared inboxes, and group permissions).
-* **Identity & Security:** Managing user lifecycles and security groups via **Active Directory (ADUC)** and **Azure AD (Entra ID)**; facilitating **Microsoft Authenticator** MFA enrollment and support.
-* **Endpoint Protection:** Utilizing **Microsoft Defender** for base-level endpoint security and threat mitigation across Windows platforms.
-* **Remote Access:** Troubleshooting **Palo Alto GlobalProtect VPN** to ensure secure, stable remote connectivity for hybrid staff.
+#### **3. Enterprise AV & UCC Operations**
+* **UCC Ecosystems:** Full-stack management of **Microsoft Teams Rooms (MTR)** and **Yealink** systems, including firmware lifecycle management and peripheral troubleshooting.
+* **AV Logic:** Maintaining **Q-SYS Ecosystems** and designer logic to ensure meeting room uptime and signal integrity.
+* **Event Logistics:** Leading internal AV for corporate events; managing wireless frequency coordination and hybrid broadcasting environments.
 
-#### **4. AI Strategy & Workflow Optimization**
-* **M365 Process Automation:** Leveraging **Microsoft Forms** and **Microsoft Approvals** to digitize IT workflows and streamline departmental sign-offs.
-* **Secure AI Implementation:** Utilizing Enterprise LLMs (**Copilot, Gemini, Claude, ChatGPT**) for script debugging and documentation while adhering to **Data Loss Prevention (DLP)** standards.
-* **Operational Efficiency:** Applying **Prompt Engineering** and project lifecycle management principles to reduce Mean Time to Resolution (MTTR).
+#### **4. Identity & SaaS Administration**
+* **Identity Management:** Managing complex user lifycicles via **Azure AD (Entra ID)** and **Active Directory (ADUC)**.
+* **Security Operations:** Facilitating **Microsoft Authenticator** MFA enrollment and utilizing **Microsoft Defender** for endpoint threat mitigation.
+* **Remote Connectivity:** Troubleshooting **Palo Alto GlobalProtect VPN** to ensure secure remote access for hybrid workforces.
 
-#### **5. Strategic IT Communications & Design**
-* **Visual Communication:** Utilizing **Adobe Creative Cloud** (Photoshop, Illustrator, Premiere) to design professional digital signage and end-user adoption materials.
-* **Knowledge Management:** Authoring technical SOPs and Knowledge Base (KB) articles to standardize support workflows and empower end-users.
+#### **5. Technical Communications & Design**
+* **Documentation:** Authoring technical SOPs and forensic-style project documentation (as seen in this portfolio) to bridge the gap between complex engineering and stakeholder understanding.
+* **Visual Strategy:** Utilizing **Adobe Creative Cloud** to design end-user adoption materials and professional digital signage.
 
 ### 📫 Contact
 * **LinkedIn:** [Matthew Davis](https://www.linkedin.com/in/mattdavis601/)
-* **GitHub:** [github.com/M4R813C4K3](https://github.com/M4R813C4K3)
+* **GitHub:** [github.com/m4r813c4k3](https://github.com/m4r813c4k3)
 * **Location:** Hamilton & Burlington, ON
