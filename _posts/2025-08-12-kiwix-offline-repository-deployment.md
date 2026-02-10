@@ -2,7 +2,7 @@
 title: "Project: Deploying a Reclaimed Kiwix Knowledge Vault"
 date: 2025-08-12 11:00:00 -0500
 categories: [Enthusiast-Projects]
-tags: [kiwix, storage, data-archival, disaster-recovery, hardware-lifecycle, encryption]
+tags: [kiwix, asset-reclamation, linux, data-archival, storage, data archival, disaster-recovery]
 description: Repurposing decommissioned SSD storage into a localized, high-capacity offline information node for hardware-isolated environments.
 ---
 
