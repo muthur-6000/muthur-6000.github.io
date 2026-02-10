@@ -26,8 +26,11 @@ Access to the BIOS and CIMC was restricted by forgotten passwords. To regain adm
 * **Action:** Utilized the jumper on Pins 1 and 2 to trigger a physical CMOS/Password reset, cycling system power to clear persistent configurations.
 * **Result:** Successfully reset the CIMC to factory defaults, allowing for the configuration of a new administrative account.
 
-{: .center}
+<div style="text-align: center;">
+  
 ![Cisco J38 Jumper Locations](/assets/img/C220_M5_Service_Headers.jpg)
+
+</div>
 
 ### 2. Storage Architecture and RAID Configuration
 The storage subsystem was architected for a balance of redundancy and write performance using enterprise SAS SSDs.
