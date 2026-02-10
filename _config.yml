@@ -24,7 +24,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://M4R813C4K3.github.io'
+url: 'https://m4r813c4k3.github.io'
 
 github:
   username: M4R813C4K3 # change to your GitHub username
@@ -36,7 +36,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Matty Davis
-  email: # change to your email address
+  email: MattyDeary@proton.me
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/M4R813C4K3 # change to your GitHub homepage
@@ -149,7 +149,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+#baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
