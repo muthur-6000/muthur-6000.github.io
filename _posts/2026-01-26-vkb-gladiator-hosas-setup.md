@@ -2,7 +2,7 @@
 title: "Peripheral Engineering: Dual VKB Gladiator HOSAS Flight Stack"
 date: 2026-01-26 16:00:00 -0500
 categories: [Enthusiast-Projects]
-tags: [vkb, hosas, flight-sim, hardware-modding, hardware-logic]
+tags: [vkb, hosas, diagnostics, hardware-integration, usb-diagnostics, flight-sim]
 description: Engineering a high-fidelity space flight setup utilizing dual VKB Gladiator NXT EVOs and dedicated desk mounts.
 ---
 
