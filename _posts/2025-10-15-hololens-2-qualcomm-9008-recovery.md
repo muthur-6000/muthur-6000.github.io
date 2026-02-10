@@ -2,7 +2,7 @@
 title: "Technical Analysis: Recovering HoloLens 2 Units from Qualcomm 9008 Mode"
 date: 2025-10-15 09:00:00 -0500
 categories: [Hardware-Diagnostics]
-tags: [hololens-2, microsoft, hardware-repair, qualcomm, firmware, diagnostics]
+tags: [microsoft, hololens, hardware-recovery, diagnostics, firmware, qualcomm]
 description: A diagnostic walkthrough of recovering four enterprise AR headsets from a hard-bricked state unrecognized by standard recovery tools.
 ---
 
