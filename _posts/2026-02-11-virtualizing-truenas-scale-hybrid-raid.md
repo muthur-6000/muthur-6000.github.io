@@ -1,7 +1,7 @@
 ---
 title: "Homelab: Architecting TrueNAS Scale on Cisco UCS (The Hybrid RAID Strategy)"
 date: 2026-02-11 13:25:00 -0500
-categories: [Homelab-Storage]
+categories: [Systems-Infrastructure]
 tags: [truenas, zfs, proxmox, io-optimization, cisco-ucs, storage-architecture, virtio]
 description: A deep-dive into configuring ZFS on enterprise hardware without an HBA, utilizing a "Hybrid Redundancy" topology and specific Proxmox I/O threading optimizations.
 ---
