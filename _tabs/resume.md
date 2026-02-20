@@ -36,13 +36,16 @@ order: 3
 ### **Retail Supervisor**
 **Cakeworthy** | *Hamilton, ON*
 *Oct 2022 - Oct 2023*
-* **Project Management:** Managed the grand opening of the brand's first brick-and-mortar location, coordinating logistics and setup under strict deadlines.
-* **Leadership:** Led a diverse team of permanent and seasonal staff, overseeing training on POS operations and customer service standards.
+* **Site Deployment & Operations:** Managed the operational rollout for the brand's first brick-and-mortar location, coordinating the physical setup and deployment of Point of Sale (POS) hardware and inventory management systems under strict deadlines.
+* **Process Standardization:** Developed Standard Operating Procedures (SOPs) for daily operations and trained a diverse team on software utilization (Square POS), hardware troubleshooting, and client service standards.
+* **Inventory Logistics:** Overseen physical inventory lifecycles and supply chain logistics to ensure 100% operational readiness and system accuracy.
 
 ### **Member Support Specialist**
 **Sitel Telecommunications** | *Remote*
 *April 2022 - Oct 2022*
-* **Technical Support:** Leveraged strong communication skills to guide non-technical users through troubleshooting steps, reducing dependence on tiered support resources.
+* **Remote L1 Technical Support:** Provided direct remote support for telecommunications users, translating complex diagnostic steps into accessible instructions for non-technical clients.
+* **First Call Resolution (FCR):** Accurately diagnosed account, billing, and fundamental connectivity issues to maintain high FCR rates and reduce the burden on tiered engineering resources.
+* **Incident Documentation:** Meticulously logged client interactions, troubleshooting steps, and resolution statuses within the enterprise ticketing system to ensure accurate downstream support.
 
 ---
 
