@@ -28,6 +28,8 @@ This lifelong obsession translates to a deep appreciation for "cassette futurism
 
 Ultimately, `muthur-6000` represents the intersection of my professional governance and my personal passions: maintaining order in the void, protecting the payload, and ensuring the mainframe serves the crew flawlessly.
 
+![Nostromo Mainframe Terminal](/assets/img/nostromo.jpg){: .shadow .rounded }
+
 ### 🛠️ Technical Competencies
 
 #### **1. Hardware Forensics & Recovery**
