@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profile
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
