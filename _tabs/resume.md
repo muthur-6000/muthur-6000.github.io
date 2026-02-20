@@ -27,11 +27,11 @@ order: 3
 * **IT Governance & Deployment:** Drive Governance Modules through extensive Documentation, Training, and Knowledge Management. Act as the responsible OSS Agent for local Training Preparation & Delivery. Directly responsible for executing Operational Changes and Release to Production activities within the local environment.
 
 ### **Communications Support Specialist**
-**Support Services Group** | *Remote*
+**Support Services Group (on behalf of Balsam Hill)** | *Remote*
 *Oct 2023 - April 2024*
-* **Stakeholder Management:** Orchestrated seamless IT communications between technical teams and business stakeholders to ensure unified project goals.
-* **Adoption Strategy:** Spearheaded communication strategies to bridge the gap between IT solutions and end-users, significantly increasing user adoption rates.
-* **Technical Liaison:** Translated complex technical jargon into actionable business language for non-technical stakeholders.
+* **CRM & Ticket Management:** Navigated enterprise CRM and order management systems to process high-volume inquiries and resolve complex logistical escalations during peak seasonal operations.
+* **Cross-Functional Coordination:** Liaised directly with warehouse, fulfillment, and logistics teams to troubleshoot shipment exceptions and ensure strict Service Level Agreement (SLA) adherence.
+* **De-escalation & Client Relations:** Acted as the primary point of contact for premium e-commerce clientele, translating backend logistical workflows into clear, empathetic communications to preserve customer satisfaction.
 
 ### **Retail Supervisor**
 **Cakeworthy** | *Hamilton, ON*
