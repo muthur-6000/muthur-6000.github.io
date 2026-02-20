@@ -19,6 +19,7 @@ order: 3
 **American IT Solutions (on behalf of Boehringer Ingelheim)** | *Burlington, ON*
 *July 2024 - Present*
 * **Core Infrastructure & IMACD:** Deliver critical L2 technical support for ~600 hybrid end-users, troubleshooting complex network and connectivity issues (TCP/IP, DNS, VPN). Execute full-lifecycle IMACD (Installs, Moves, Adds, Changes, and Disposals) operations for enterprise hardware.
+* **Enterprise Mobility & Fleet Management:** Manage a centralized hardware repository of ~1,000 devices for the Canadian Operating Unit (OPU). Directed the 2026 nationwide Apple iPad Air rollout, orchestrating logistics, stakeholder communications, and deployment via Microsoft Intune.
 * **Incident & Request Management:** Triage and manage strict Incident Handling and Request Handling workflows within ServiceNow, acting as the primary escalation point for physical site faults.
 * **Lifecycle & Asset Management:** Oversee comprehensive Asset & Stock Management. Ensure secure Data Preservation protocols during employee On- and Offboarding, and take direct responsibility for the Decommissioning of legacy IT assets.
 * **Enterprise AV & Meeting Room Support:** Provide dedicated Meeting Room Support, coordinating proactive A/V meeting setups for executive townhalls utilizing MTR hardware and wireless presentation gateways.
@@ -54,7 +55,7 @@ order: 3
 
 ### **Hardware & Diagnostics**
 * **Server/Virtualization:** Cisco UCS C220 M5 (Firmware/RAID), Proxmox VE, Hyper-V, TrueNAS Scale.
-* **Client Hardware:** Lenovo ThinkPad X1/T-Series (Component Level Repair, Motherboard Swaps), Lenovo Tiny PCs, Thunderbolt Docking Stations.
+* **Client Hardware:** Apple iPad Air Series, Lenovo ThinkPad X1/T-Series (Component Level Repair, Motherboard Swaps), Lenovo Tiny PCs, Thunderbolt Docking Stations.
 * **Tools:** ServiceNow, FNT Command (Asset Mgmt), PAMPortal, Adobe Creative Suite.
 
 ---
