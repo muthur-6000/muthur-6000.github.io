@@ -1,6 +1,6 @@
 ---
 title: "Project: Acheron—The Hackberry Pi CM5 Cyberdeck Build"
-date: 2026-02-27 12:00:00 -0500
+date: 2026-02-27 10:00:00 -0500
 categories: [Enthusiast-Projects]
 tags: [cyberdeck, hardware-modding, raspberry-pi, cm5, industrial-design, infrastructure]
 description: Engineering a portable, industrial-grade terminal utilizing the Raspberry Pi CM5 and a tactile BB9900 physical interface.
