@@ -19,7 +19,7 @@ Project Acheron is a pursuit of tactile, high-performance mobile compute. While 
 ## The Engineering Plan
 
 ### 1. The Compute Core: CM5 Integration
-The shift to the **CM5** architecture offers a significant performance uplift over the Pi Zero or CM4.
+The shift to the **CM5** architecture offers a significant performance uplift over the Pi Zero 2W or CM4.
 * **Memory Management:** The 8GB RAM ensures that even with a heavy terminal loadout and background network scanners, the system remains responsive.
 * **NVMe Storage:** By opting for the "Lite" module, I am bypassing the slower onboard eMMC to run the entire OS off an NVMe drive. This ensures enterprise-grade read/write speeds, critical for rapid diagnostic tool deployment.
 
@@ -30,13 +30,13 @@ A cyberdeck is defined by its input. I have selected the **BB9900** keyboard for
 
 ### 3. Chassis Design and "Cassette Futurism"
 The build will reject the "click-to-fix" aesthetic. The chassis will be modeled to feel like a piece of industrial equipment salvaged from a 1970s mainframe room.
-* **Serviceability:** Following the mindset applied to my **ThinkPad X13 Yoga** repairs, the enclosure will use standard fasteners to ensure 100% field serviceability.
+* **Serviceability:** Following the mindset applied to my **[ThinkPad X13 Yoga]({% post_url 2026-02-01-thinkpad-x13-yoga-restoration %})** repairs, the enclosure will use standard fasteners to ensure 100% field serviceability.
 * **Cooling:** Due to the CM5 power draw, a custom passive heatsink or low-profile active cooling solution will be integrated into the chassis to maintain peak clock speeds during high-density compute tasks.
 
 ### 4. OS Hardening and Custom Rice
 The software environment will be a stripped-back Arch Linux installation.
 * **Theme:** A monochrome green phosphor aesthetic, mirroring retro-terminal interfaces.
-* **Tooling:** Pre-configured with a suite of infrastructure diagnostic tools, network scanners, and local knowledge vaults—bridging the gap between my **Kiwix Knowledge Vault** and live system administration.
+* **Tooling:** Pre-configured with a suite of infrastructure diagnostic tools, network scanners, and local knowledge vaults—bridging the gap between my **[Kiwix Knowledge Vault]({% post_url 2025-08-12-kiwix-offline-repository-deployment %})** and live system administration.
 
 ## Current Status: Procurement
 As of February 2026, the primary components—including the CM5 and 9900 module—have been ordered. The project is currently in the **Logistics and Prototyping** phase. Once the hardware arrives, I will begin the initial stress testing and wiring of the carrier board.
